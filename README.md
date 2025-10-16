@@ -1,2 +1,3 @@
-### *Oi, eu sou o Leonardo.*
+### *Maratona DevDojo*
 
+Primeira aula do DevDojo, fazendo um Hello World. 
